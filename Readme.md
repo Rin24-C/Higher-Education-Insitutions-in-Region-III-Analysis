@@ -1,4 +1,4 @@
-# Higher Educational Institutions in Region III - Dashboard Analysis
+# Higher Education Institutions in Region III - Dashboard Analysis
 An exploratory analysis project done on MySQL. Here, I used queries to analyze data from CHED about Higher Educational Institutions (HEIs) in Region III of the Philippines. 
 Original CSV file can be downloaded from the CHED website (https://legacy.ched.gov.ph/list-of-higher-education-institutions-2/). The data I used for this project was last updated in October 2025.
 
